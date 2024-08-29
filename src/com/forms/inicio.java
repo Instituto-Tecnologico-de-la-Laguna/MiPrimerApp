@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-//Daniela Aldaco
+//Daniela Aldaco Hernandez
     }
 
     public static void main(String[] args) {
