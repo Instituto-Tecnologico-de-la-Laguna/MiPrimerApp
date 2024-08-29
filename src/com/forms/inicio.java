@@ -28,6 +28,7 @@ public class inicio {
         //prueba del git
         //prueba tres
         //
+        //cambio
         frame.pack();
         frame.setVisible(true);
 
