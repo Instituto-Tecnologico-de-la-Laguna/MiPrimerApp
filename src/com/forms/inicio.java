@@ -22,7 +22,7 @@ public class inicio {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Mi Primer App con Swing GUI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(500,300);
+        frame.setSize(500,300); //Tamaño de la ventana
         frame.setContentPane(new inicio().pnlInicio);
         //frame.setBounds(30,30,500,300);
 
