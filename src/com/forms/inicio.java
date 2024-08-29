@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-        //Samuel Cortinas De la Cruz
+        //Samuel Cortinas De la Cruz 22130555
 
     }
 
