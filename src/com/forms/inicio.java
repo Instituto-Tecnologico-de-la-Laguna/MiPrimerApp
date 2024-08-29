@@ -26,6 +26,7 @@ public class inicio {
         frame.setContentPane(new inicio().pnlInicio);
         //frame.setBounds(30,30,500,300);
         //prueba del git
+        //prueba tres
         //
         frame.pack();
         frame.setVisible(true);
