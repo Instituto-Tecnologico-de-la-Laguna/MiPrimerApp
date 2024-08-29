@@ -25,7 +25,10 @@ public class inicio {
         frame.setSize(500,300); //Tamaño de la ventana
         frame.setContentPane(new inicio().pnlInicio);
         //frame.setBounds(30,30,500,300);
-
+        //prueba del git
+        //prueba tres
+        //
+        //cambio
         frame.pack();
         frame.setVisible(true);
 
