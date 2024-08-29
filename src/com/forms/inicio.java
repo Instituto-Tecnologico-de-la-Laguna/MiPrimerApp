@@ -29,6 +29,7 @@ public class inicio {
         //prueba tres
         //
         //cambio
+        //camcio 5
         frame.pack();
         frame.setVisible(true);
 
