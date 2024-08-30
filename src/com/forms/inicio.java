@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-//Angel Armando Hernandez Silva 23130010
+//Angel Hernandez Silva 23130010
     }
 
     public static void main(String[] args) {
