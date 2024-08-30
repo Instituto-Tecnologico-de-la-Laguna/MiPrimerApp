@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+             //Sergio Yael Perea Flores 23130031
     }
 
     public static void main(String[] args) {
