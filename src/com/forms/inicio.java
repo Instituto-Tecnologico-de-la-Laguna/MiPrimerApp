@@ -29,6 +29,7 @@ public class inicio {
         //prueba tres
         //
         //cambio
+        //Buen día para programar mientras como un taquito de carne asada con el buen Ricardo García
         frame.pack();
         frame.setVisible(true);
 
