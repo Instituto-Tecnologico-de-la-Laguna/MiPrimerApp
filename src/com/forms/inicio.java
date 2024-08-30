@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+    //Adrian Rios Ramos 22130518
     }
 
     public static void main(String[] args) {
