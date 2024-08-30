@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-        //Carlos Adrian
+        //Carlos Adrian Treviño Martinez
     }
 
     public static void main(String[] args) {
