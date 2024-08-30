@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Melanie Guadalupe Argumedo Sánchez 23130002
     }
 
     public static void main(String[] args) {
