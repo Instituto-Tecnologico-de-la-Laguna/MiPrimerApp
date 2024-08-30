@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Benny Israel Mercado Rodriguez 22130565
     }
 
     public static void main(String[] args) {
