@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-        //  Ivan Centeno Garcia --- 23130478
+        //  Ivan Centeno Garcia --- 23130478-
     }
 
     public static void main(String[] args) {
