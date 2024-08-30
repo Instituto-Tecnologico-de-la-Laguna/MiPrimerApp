@@ -16,6 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
+        // Armando Vacio Melendez 23130011
 
     }
 
