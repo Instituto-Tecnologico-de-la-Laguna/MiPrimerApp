@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-//Daniel Salazar Oliva 23130032 :)
+//Daniel Salazar
     }
 
     public static void main(String[] args) {
