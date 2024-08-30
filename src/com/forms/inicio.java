@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Edwin Emiliano Guerrero Contreras 22131373
     }
 
     public static void main(String[] args) {
