@@ -32,6 +32,7 @@ public class inicio {
         frame.pack();
         frame.setVisible(true);
 // Juan Francisco Banuelos Cardenas 21130875
+        // hola
 
     }
 }
