@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Alfredo Alberto Palacios Rodriguez
     }
 
     public static void main(String[] args) {
