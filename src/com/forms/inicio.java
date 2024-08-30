@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+        //Alejandro Alvarez Frayre
     }
 
     public static void main(String[] args) {
