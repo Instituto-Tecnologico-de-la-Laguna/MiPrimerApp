@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+        // Jesús Eduardo Ortiz Rodríguez 22130574
     }
 
     public static void main(String[] args) {
