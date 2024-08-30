@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Manuel Antonio Villa Torres
     }
 
     public static void main(String[] args) {
