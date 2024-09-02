@@ -16,7 +16,7 @@ public class inicio {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
         });
-
+//Yocelin Vanessa Gonzalez Santiago 23130017
     }
 
     public static void main(String[] args) {
