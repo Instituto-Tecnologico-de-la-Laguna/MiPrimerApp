@@ -8,6 +8,7 @@ public class inicio {
     private JPanel pnlInicio;
     private JTextField txtNombre;
     private JButton btnAceptar;
+    private JButton btnBorrar;
 
     public inicio() {
         btnAceptar.addActionListener(new ActionListener() {
@@ -15,22 +16,16 @@ public class inicio {
             public void actionPerformed(ActionEvent e) {
                 JOptionPane.showMessageDialog(null, txtNombre.getText());
             }
+
         });
-
+//Daniela Aldaco Hernandez C20130918
+        btnBorrar.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                txtNombre.setText("");
+            }
+        });
     }
 
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("Mi Primer App con Swing GUI");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(500,300); //Tamaño de la ventana
-        frame.setContentPane(new inicio().pnlInicio);
-        //frame.setBounds(30,30,500,300);
-        //prueba del git
-        //prueba tres
-        //
-        //cambio
-        frame.pack();
-        frame.setVisible(true);
 
-    }
 }
