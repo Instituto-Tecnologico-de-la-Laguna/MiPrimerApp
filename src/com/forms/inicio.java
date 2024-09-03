@@ -8,6 +8,8 @@ public class inicio {
     private JPanel pnlInicio;
     private JTextField txtNombre;
     private JButton btnAceptar;
+    private JButton borrarButton;
+
 
     public inicio() {
         btnAceptar.addActionListener(new ActionListener() {
