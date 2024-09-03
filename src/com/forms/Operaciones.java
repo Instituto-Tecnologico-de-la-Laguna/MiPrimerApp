@@ -50,5 +50,5 @@ public class Operaciones {
         frame.setVisible(true);
 
     }
-    //Daniela Aldaco
+    //Daniela Aldacon Hernandez
 }
